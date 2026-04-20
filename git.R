@@ -4,3 +4,4 @@ usethis::use_git_config(
 )
 
 usethis::create_github_token()
+print("hi")
