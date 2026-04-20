@@ -221,7 +221,7 @@ Define the following terms associated with the cell cycle.
 Organelles in the cell above are labelled as follows:
 
 |  |  |
-|-------------|----------------------------------------------------------|
+|----|----|
 | 1 | Nucleolus |
 | 2 | Nucleus |
 | 3 | Ribosome (dots as part of 5) |
@@ -293,7 +293,7 @@ Using the information in table 3.2 review the cells structures and function(s) t
 **Table 3.2 Parts of a Typical Animal Cell**
 
 | Name | Function | Features | Appearance |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Centriole | Anchor for cytoskeleton, organizes cell division by forming spindle fibers | Visible only when active nuclear division takes place (mitosis) | ![Figure 3.7](images/clipboard-1934241572.png) |
 | Chromatin | A complex of DNA and protein found in eukaryotic cells whose primary function is to package long DNA molecules into more compact, denser structures | Most of the coloration of the nucleus is from the chromatin, except for that of the nucleolus. | ![Figure 3.8](images/clipboard-4062272061.png) |
 | Cytoplasm | All of the material within a eukaryotic cell, enclosed by the cell membrane, except for the cell nucleus | A clear sol-gel that may contain granular substances in it. | ![Figure 3.9](images/fig3_9.jpg) |
@@ -427,7 +427,7 @@ Examine the phases of mitosis from the figures below.
 ## **Table 3.2 Complete the Matching Activity**
 
 | Name | Description |
-|---------------------------|---------------------------------------------|
+|----|----|
 | 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
 | 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
 | 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
@@ -474,7 +474,7 @@ Complete the crossword activity.
 Note: Except for the letters, Table 3.3 is a duplicate of Table 3.2. I decided not to remove the duplicates and keep the same activity and table numbers as in the source without skipping numbers.
 
 | Name | Description |
-|--------------------------|---------------------------------------------|
+|----|----|
 | 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
 | 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
 | 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
@@ -563,7 +563,7 @@ The Cell:
 **Chapter 3: Cells Glossary**
 
 | Terms | Definitions |
-|----------------------------|--------------------------------------------|
+|----|----|
 | active transport | form of transport across the cell membrane that requires input of cellular energy |
 | amphipathic | describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in water solubility |
 | anaphase | third stage of mitosis (and meiosis), during which sister chromatids separate into two new nuclear regions of a dividing cell |
