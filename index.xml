@@ -10,7 +10,7 @@
 <atom:link href="https://USERNAME.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Mon, 20 Apr 2026 17:09:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Apr 2026 13:50:57 GMT</lastBuildDate>
 <item>
   <title>Quarto manuscript</title>
   <dc:creator>Martin Laptev</dc:creator>
@@ -98,7 +98,7 @@ font-style: inherit;">quarto</span> publish gh-pages</span></code></pre></div></
 
  ]]></description>
   <guid>https://USERNAME.github.io/posts/manuscript/</guid>
-  <pubDate>Mon, 20 Apr 2026 17:09:51 GMT</pubDate>
+  <pubDate>Tue, 21 Apr 2026 13:50:57 GMT</pubDate>
   <media:content url="https://USERNAME.github.io/posts/manuscript/images/quar.png" medium="image" type="image/png" height="53" width="144"/>
 </item>
 <item>
@@ -193,7 +193,7 @@ font-style: inherit;">quarto</span> publish gh-pages</span></code></pre></div></
 
  ]]></description>
   <guid>https://USERNAME.github.io/posts/presentation/</guid>
-  <pubDate>Mon, 20 Apr 2026 17:09:51 GMT</pubDate>
+  <pubDate>Tue, 21 Apr 2026 13:50:57 GMT</pubDate>
   <media:content url="https://USERNAME.github.io/posts/presentation/images/pres.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
